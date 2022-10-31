@@ -1,2 +1,2 @@
 # orbit
-alpha 0.1
+a langauge that can print | alpha 0.1
