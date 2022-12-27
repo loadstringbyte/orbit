@@ -1,0 +1,2 @@
+# delete all the python binary files
+cd .. && rm -rf lang/__pycache__ echo "deleted lang/__pycache__" && rm -rf impl/__pycache__ echo "deleted impl/__pycache__" && rm -rf tests/__pycache__ echo "deleted tests/__pycache"

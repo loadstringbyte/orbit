@@ -1,0 +1,5 @@
+curr vsn: 1.0
+
+1.0
+    - math, printing, storing in memory
+    - terminal compatability (intperpreted)
