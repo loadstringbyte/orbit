@@ -1,2 +1,2 @@
 ## mint
-milo transpiler
+mint transpiler
