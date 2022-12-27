@@ -1,2 +1,2 @@
 ## mint
-milo interpreter
+milo transpiler
