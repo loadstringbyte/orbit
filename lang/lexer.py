@@ -1,6 +1,5 @@
 from tokens import *
 
-# tokenize the entire string
 class Lexer:
     def __init__(self, plaintext: str):
         self.plaintext = plaintext
